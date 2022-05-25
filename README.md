@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+
+I am Ani, a budding software developer making my way into the amazing world of web development.
+
+Check out some of my recent projects:
+
+* [Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
+* [J&A Travel Guide](https://guidetravel.herokuapp.com/)
+* [Actor-to-Movies Generator](https://actor-to-movies-generator.ani0104.repl.co/)
+* [Aluminati](https://aluminati.ani0104.repl.co/)
 
 <!--
 **anisam04/anisam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
