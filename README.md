@@ -4,12 +4,14 @@ I am Ani, a budding coder making my way into the amazing world of web developmen
 
 Check out some of my recent projects:
 
-* [Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
-* [J&A Travel Guide](https://guidetravel.herokuapp.com/)
-* [Actor-to-Movies Generator](https://actor-to-movies-generator.ani0104.repl.co/)
-* [Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
-* [Aluminati](https://aluminati.ani0104.repl.co/)
+* 🐦[Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
+* ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)
+* 🎥[Actor-to-Movies Generator](https://actor-to-movies-generator.ani0104.repl.co/)
+* 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
+* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
+🔭 I’m currently working on ikeep -a full stack React App.
+📫 Reach out to me on anisam.samajpati@gmail.com
 <!--
 **anisam04/anisam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
