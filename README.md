@@ -1,12 +1,13 @@
 ### Hi 👋
 
-I am Ani, a budding software developer making my way into the amazing world of web development.
+I am Ani, a budding coder making my way into the amazing world of web development.
 
 Check out some of my recent projects:
 
 * [Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
 * [J&A Travel Guide](https://guidetravel.herokuapp.com/)
 * [Actor-to-Movies Generator](https://actor-to-movies-generator.ani0104.repl.co/)
+* [Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
 * [Aluminati](https://aluminati.ani0104.repl.co/)
 
 <!--
