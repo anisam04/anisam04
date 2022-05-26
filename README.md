@@ -6,7 +6,7 @@ Check out some of my recent projects:
 
 * 🐦[Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
 * ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)
-* 🎥[Actor-to-Movies Generator](https://actor-to-movies-generator.ani0104.repl.co/)
+* 🎥[Actor-to-Movies Generator]([https://actor-to-movies-generator.ani0104.repl.co/](https://replit.com/join/ewvfmotbra-ani0104))
 * 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
 * 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
