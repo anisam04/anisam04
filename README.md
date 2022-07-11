@@ -10,7 +10,7 @@ Check out some of my recent projects:
 * 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
 * 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
-🔭 I’m currently working on ikeep -a full stack React App.<br>
+🔭 I’m currently working on Grind75 Questions.<br>
 📫 Reach out to me on anisam.samajpati@gmail.com
 <!--
 **anisam04/anisam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
