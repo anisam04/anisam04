@@ -10,6 +10,9 @@ Check out some of my recent projects:
 * 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
 * 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisam04&layout=compact)](https://github.com/anisam04/github-readme-stats)
+
+
 🔭 I’m currently working on Frontendmentor.io challenges.<br>
 📫 Reach out to me on anisam.samajpati@gmail.com
 <!--
