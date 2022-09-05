@@ -10,12 +10,14 @@ Check out some of my recent projects:
 * 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
 * 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
+🔭 I’m currently working on Frontendmentor.io challenges.<br>
+📫 Reach out to me on anisam.samajpati@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisam04&layout=compact)](https://github.com/anisam04/github-readme-stats)
 
 [![Ani's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisam04&hide=contribs&count_private=true&show_icons=true)](https://github.com/anisam04/github-readme-stats)
 
-🔭 I’m currently working on Frontendmentor.io challenges.<br>
-📫 Reach out to me on anisam.samajpati@gmail.com
+
 <!--
 **anisam04/anisam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
