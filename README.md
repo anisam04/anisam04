@@ -7,11 +7,14 @@ Check out some of my recent projects:
 * 🔗[URL Shortener](https://node-urlshortener.herokuapp.com/)
 * 🐦[Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
 * ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)
+* 🌱[Plantwali](https://plantwali.herokuapp.com/)
+* 🌈[Color Flipper](https://anisam04.github.io/ColorFlipper/)
+<!--* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 * 🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
-* 🌱[Plantwali](https://inventory-tracking-app.ani0104.repl.co/)
-* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 
 🔭 
+-->
+
 📫 Reach out to me on anisam.samajpati@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisam04&layout=compact&langs_count=8)](https://github.com/anisam04/github-readme-stats)
