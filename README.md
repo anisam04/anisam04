@@ -16,6 +16,7 @@ Check out some of my recent projects:
 -->
 
 📫 Reach out to me on anisam.samajpati@gmail.com
+[![Codewars](https://www.codewars.com/users/ani0104/badges/large)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisam04&layout=compact&langs_count=8)](https://github.com/anisam04/github-readme-stats)
 
