@@ -4,17 +4,21 @@ I am Ani, a budding coder making my way into the amazing world of web developmen
 
 Check out some of my recent projects:
 
-* 🔗[URL Shortener](https://node-urlshortener.herokuapp.com/)
+* 🔗[URL Shortener](https://average-jade-smock.cyclic.app/)
 * 🐦[Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
-* ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)
-* 🌱[Plantwali](https://plantwali.herokuapp.com/)
+<!-- * ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/) -->
+* 🌱[Plantwali](https://erin-narwhal-wear.cyclic.app/)
 * 🌈[Color Flipper](https://anisam04.github.io/ColorFlipper/)
+* 🦠Covid Tracker(Coming soon)
 <!--* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 * 🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
 
 🔭 
 -->
-😶‍🌫️ [SheCodes Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
+CHALLENGES: 
+😶‍🌫️ [SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
+🐕 [SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
+
 
 📫 Reach out to me on anisam.samajpati@gmail.com
 <br />
