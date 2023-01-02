@@ -1,6 +1,7 @@
 ### Hi 👋
 
-I am Ani, a budding coder making my way into the amazing world of web development.
+I am Ani, a budding coder making my way into the amazing world of web development. 📫 Reach out to me on anisam.samajpati@gmail.com
+
 Check out some of my recent projects:
 
 * 🔗[URL Shortener](https://average-jade-smock.cyclic.app/)
@@ -13,12 +14,11 @@ Check out some of my recent projects:
 ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)  🔭 -->
 <br />
 
-## CHALLENGES: 
+# CHALLENGES: 
 * 😶‍🌫️[SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
 * 🐕[SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
 
 
-📫 Reach out to me on anisam.samajpati@gmail.com
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisam04&layout=compact&langs_count=8)](https://github.com/anisam04/github-readme-stats)
