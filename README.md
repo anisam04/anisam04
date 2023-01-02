@@ -16,8 +16,8 @@ Check out some of my recent projects:
 🔭 -->
 <br />
 CHALLENGES: 
-😶‍🌫️ [SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
-🐕 [SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
+* 😶‍🌫️[SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
+* 🐕[SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
 
 
 📫 Reach out to me on anisam.samajpati@gmail.com
