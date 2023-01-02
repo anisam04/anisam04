@@ -1,7 +1,6 @@
 ### Hi 👋
 
 I am Ani, a budding coder making my way into the amazing world of web development.
-
 Check out some of my recent projects:
 
 * 🔗[URL Shortener](https://average-jade-smock.cyclic.app/)
@@ -9,13 +8,12 @@ Check out some of my recent projects:
 * 🌱[Plantwali](https://erin-narwhal-wear.cyclic.app/)
 * 🌈[Color Flipper](https://anisam04.github.io/ColorFlipper/)
 * 🦠Covid Tracker(Coming soon)
-<!--* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
-* 🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
-* ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)  🔭 -->
-
-
+<!-- 👭[Aluminati](https://aluminati.ani0104.repl.co/)
+🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
+✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)  🔭 -->
 <br />
-CHALLENGES: 
+
+## CHALLENGES: 
 * 😶‍🌫️[SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
 * 🐕[SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
 
