@@ -13,8 +13,8 @@ Check out some of my recent projects:
 * 🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
 <!-- * ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/) -->
 
-🔭 
--->
+🔭 -->
+<br />
 CHALLENGES: 
 😶‍🌫️ [SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
 🐕 [SheCodes Pet Challenge entry](https://anisam04.github.io/SheCodesChallenge-PetLandingPage/)
