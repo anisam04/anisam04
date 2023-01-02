@@ -11,9 +11,9 @@ Check out some of my recent projects:
 * 🦠Covid Tracker(Coming soon)
 <!--* 👭[Aluminati](https://aluminati.ani0104.repl.co/)
 * 🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
-<!-- * ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/) -->
+* ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)  🔭 -->
 
-🔭 -->
+
 <br />
 CHALLENGES: 
 * 😶‍🌫️[SheCodes HomeTown Challenge entry](https://anisam04.github.io/SheCodesChallenge-HometownPage/)
