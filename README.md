@@ -4,13 +4,15 @@ I am Ani, a budding coder making my way into the amazing world of web developmen
 
 Check out some of my recent projects:
 
+* 🦠Covid Tracker(https://anisam04.github.io/react-covid19-tracker/)
+* 🎥[Actor-to-Movies Generator](https://actor-to-movies-generator.herokuapp.com/)
+* 🌱[Plantwali](https://erin-narwhal-wear.cyclic.app/)
 * 🔗[URL Shortener](https://average-jade-smock.cyclic.app/)
 * 🐦[Does it Fly? Game](https://anisam04.github.io/Does-It-Fly-Game/)
-* 🌱[Plantwali](https://erin-narwhal-wear.cyclic.app/)
 * 🌈[Color Flipper](https://anisam04.github.io/ColorFlipper/)
-* 🦠Covid Tracker(Coming soon)
+
 <!-- 👭[Aluminati](https://aluminati.ani0104.repl.co/)
-🎥[Actor-to-Movies Generator](https://replit.com/join/ewvfmotbra-ani0104)
+
 ✈️[J&A Travel Guide](https://guidetravel.herokuapp.com/)  🔭 -->
 <br />
 
